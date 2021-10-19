@@ -1,5 +1,5 @@
 # ARM 64/v8
-FROM mongo@sha256:3e735aadf96b1a0571316ab2f64b3b93112f5338b93966e800bec88c96b91e7c
+FROM mongo-express@sha256:3e735aadf96b1a0571316ab2f64b3b93112f5338b93966e800bec88c96b91e7c
 MAINTAINER Stu Cunliffe,UK s_cunliffe@uk.ibm.com
 ENV http_proxy http://9.196.156.29:3128
 ENV https_proxy http://9.196.156.29:3128
